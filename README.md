@@ -1,2 +1,2 @@
 # Geometry
-Practising oython
+Practising python
